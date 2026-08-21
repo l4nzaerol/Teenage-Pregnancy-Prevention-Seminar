@@ -13,10 +13,10 @@ export const seminar = {
 };
 
 const DEFAULT_FEEDBACK_FORM_URL =
-  "https://docs.google.com/forms/d/e/1FAIpQLSchb_MVj9PoZNhDs1fVmWOqY-oO5ve-mrfKH6usPBNhcRc9GA/viewform";
+  "https://docs.google.com/forms/d/e/1FAIpQLSdwV5ty3thzSdzeCLK_ZSCVw4CJN3BVdC1sBe18Gs7VxcoZAg/viewform";
 
 /** Spreadsheet ID and sheet GID from the responses spreadsheet URL */
-const SPREADSHEET_ID = "1PQp0VA6kn7l-KKOb_4IRXrg26hUDHt65LJ-lXbXHQSE";
+const SPREADSHEET_ID = "1liEQBA_UmNn2UcNFkDAvXlyiKgBhf5DcQFkHzPKR_PQ";
 const SHEET_GID = "0";
 
 export const lookup = {
@@ -28,7 +28,7 @@ export const lookup = {
 export const certificateLayout = {
   /** Set true after you add the official template to public/img/ */
   useCustomTemplate: true,
-  templateUrl: "/img/YOUTH-EMPLOYMENT.png",
+  templateUrl: "/img/TEENAGE PREGNANCY.png",
   /** Landscape certificate size in CSS pixels (also PNG export size). */
   width: 2000,
   height: 1414,
