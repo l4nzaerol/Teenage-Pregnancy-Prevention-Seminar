@@ -5,7 +5,7 @@
  * the template width/height so it stays aligned at any download size.
  */
 export const seminar = {
-  title: "YOUTH-EMPLOYMENT SEMINAR",
+  title: "TEENAGE PREGNANCY AWARENESS SEMINAR",
   tagline: "",
   subtitle: "Certificate of Participation",
   dateLabel: "Youth Month 2026",

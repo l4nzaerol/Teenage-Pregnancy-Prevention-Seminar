@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix student-leaders run dev",
+    "build": "npm --prefix student-leaders run build"
+  }
+}
